@@ -1,0 +1,1 @@
+generic algorithm for finding max(sum (XiAi))
